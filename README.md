@@ -8,10 +8,9 @@
 
 <br>
 
+### 🛠️ Linguagens e Tecnologias
+
 <table>
-  <tr>
-    <td colspan="6" align="center"><b> 🛠️ Linguagens e Tecnologias:</b></td>
-  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"<br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"<br>
@@ -22,10 +21,11 @@
   </tr>
 </table>
 
-___ 
+<br>
 
-#### 📫 Como me encontrar:
+### 📫 Fale Comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilalocatelli/)
+___ 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=camilalocatelli&layout=compact)
